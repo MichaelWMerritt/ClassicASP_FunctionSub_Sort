@@ -1,0 +1,12 @@
+c:\users\mimester\documents\visual studio 2013\Projects\SubroutineFunctionSort_VB\SubroutineFunctionSort_VB\bin\Debug\SubroutineFunctionSort_VB.exe.config
+c:\users\mimester\documents\visual studio 2013\Projects\SubroutineFunctionSort_VB\SubroutineFunctionSort_VB\bin\Debug\SubroutineFunctionSort_VB.exe
+c:\users\mimester\documents\visual studio 2013\Projects\SubroutineFunctionSort_VB\SubroutineFunctionSort_VB\bin\Debug\SubroutineFunctionSort_VB.pdb
+c:\users\mimester\documents\visual studio 2013\Projects\SubroutineFunctionSort_VB\SubroutineFunctionSort_VB\obj\Debug\SubroutineFunctionSort_VB.csprojResolveAssemblyReference.cache
+c:\users\mimester\documents\visual studio 2013\Projects\SubroutineFunctionSort_VB\SubroutineFunctionSort_VB\obj\Debug\SubroutineFunctionSort_VB.exe
+c:\users\mimester\documents\visual studio 2013\Projects\SubroutineFunctionSort_VB\SubroutineFunctionSort_VB\obj\Debug\SubroutineFunctionSort_VB.pdb
+C:\Users\wpmwm\Source\Repos\VBScript-Sort-By-Functions-and-Subroutines\SubroutineFunctionSort_VB\bin\Debug\SubroutineFunctionSort_VB.exe.config
+C:\Users\wpmwm\Source\Repos\VBScript-Sort-By-Functions-and-Subroutines\SubroutineFunctionSort_VB\obj\Debug\SubroutineFunctionSort_VB.exe
+C:\Users\wpmwm\Source\Repos\VBScript-Sort-By-Functions-and-Subroutines\SubroutineFunctionSort_VB\obj\Debug\SubroutineFunctionSort_VB.pdb
+C:\Users\wpmwm\Source\Repos\VBScript-Sort-By-Functions-and-Subroutines\SubroutineFunctionSort_VB\bin\Debug\SubroutineFunctionSort_VB.exe
+C:\Users\wpmwm\Source\Repos\VBScript-Sort-By-Functions-and-Subroutines\SubroutineFunctionSort_VB\bin\Debug\SubroutineFunctionSort_VB.pdb
+C:\Users\wpmwm\Source\Repos\VBScript-Sort-By-Functions-and-Subroutines\SubroutineFunctionSort_VB\obj\Debug\SubroutineFunctionSort_VB.csprojResolveAssemblyReference.cache
